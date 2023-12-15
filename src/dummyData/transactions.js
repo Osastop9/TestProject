@@ -1,0 +1,77 @@
+const transactions = [
+  {
+    id: 1,
+    title: "Fund Wallet",
+    tag: "Transfer",
+    type: "Credit",
+    amount: 35000.0,
+    date: "21-08-21 5:10PM",
+  },
+  {
+    id: 2,
+    title: "Transfer to Zenith",
+    tag: "Transfer",
+    type: "Debit",
+    amount: 5000.0,
+    date: "21-08-21 5:10PM",
+  },
+  {
+    id: 3,
+    title: "Payment or Order 537653",
+    tag: "Paylater",
+    type: "Debit",
+    amount: 7000.0,
+    date: "21-08-21 5:10PM",
+  },
+
+  {
+    id: 4,
+    title: "Airtime",
+    tag: "Transfer",
+    type: "Debit",
+    amount: 200.0,
+    date: "21-08-21 5:10PM",
+  },
+  {
+    id: 5,
+    title: "Fund Wallet",
+    tag: "Transfer",
+    type: "Credit",
+    amount: 7000.0,
+    date: "21-08-21 5:10PM",
+  },
+  {
+    id: 6,
+    title: "Fund Wallet",
+    tag: "Transfer",
+    type: "Credit",
+    amount: 35000.0,
+    date: "21-08-21 3:10AM",
+  },
+  {
+    id: 7,
+    title: "Pay Bills 9437984",
+    tag: "Transfer",
+    type: "Debit",
+    amount: 16400.0,
+    date: "21-08-21 5:10PM",
+  },
+  {
+    id: 8,
+    title: "Fund Wallet",
+    tag: "Paylater",
+    type: "Credit",
+    amount: 5000.0,
+    date: "21-08-21 12:00AM",
+  },
+  {
+    id: 9,
+    title: "Transfer to Kuda 7244684",
+    tag: "Transfer",
+    type: "Debit",
+    amount: 105000.0,
+    date: "21-08-21 2:33PM",
+  },
+];
+
+export { transactions };
